@@ -1,0 +1,13 @@
+C:\Users\Victor Delgado\source\repos\LoginToSql.Test\LoginToSql.DA\bin\Debug\LoginToSql.DA.dll
+C:\Users\Victor Delgado\source\repos\LoginToSql.Test\LoginToSql.DA\bin\Debug\LoginToSql.DA.pdb
+C:\Users\Victor Delgado\source\repos\LoginToSql.Test\LoginToSql.DA\obj\Debug\LoginToSql.DA.csprojAssemblyReference.cache
+C:\Users\Victor Delgado\source\repos\LoginToSql.Test\LoginToSql.DA\obj\Debug\LoginToSql.DA.csproj.CoreCompileInputs.cache
+C:\Users\Victor Delgado\source\repos\LoginToSql.Test\LoginToSql.DA\obj\Debug\LoginToSql.DA.dll
+C:\Users\Victor Delgado\source\repos\LoginToSql.Test\LoginToSql.DA\obj\Debug\LoginToSql.DA.pdb
+C:\Users\Victor Delgado\source\repos\LoginToSql.Test\LoginToSql.DA\bin\Debug\LoginToSql.DA.dll.config
+C:\Users\Victor Delgado\Documents\Documentos\LoginToSql.Test\LoginToSql.DA\bin\Debug\LoginToSql.DA.dll.config
+C:\Users\Victor Delgado\Documents\Documentos\LoginToSql.Test\LoginToSql.DA\bin\Debug\LoginToSql.DA.dll
+C:\Users\Victor Delgado\Documents\Documentos\LoginToSql.Test\LoginToSql.DA\bin\Debug\LoginToSql.DA.pdb
+C:\Users\Victor Delgado\Documents\Documentos\LoginToSql.Test\LoginToSql.DA\obj\Debug\LoginToSql.DA.csproj.CoreCompileInputs.cache
+C:\Users\Victor Delgado\Documents\Documentos\LoginToSql.Test\LoginToSql.DA\obj\Debug\LoginToSql.DA.dll
+C:\Users\Victor Delgado\Documents\Documentos\LoginToSql.Test\LoginToSql.DA\obj\Debug\LoginToSql.DA.pdb
